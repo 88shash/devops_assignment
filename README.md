@@ -4,7 +4,7 @@ Prerequisite
 2. There will be python parsar, which parsed the terraform state file and return the VM inventory in the form of python List
 
 
-Note : Assignment is not 100% completed, as this requires a python API development and OOPS principals. And I've mostly worked on the Pythong Scripting and not the Application Development. However still I've tried to complete the assignment, please find details below
+Note : Assignment is not 100% completed, as this requires a python API development and OOPS principles. And I've mostly worked on the Pythong Scripting and not the Application Development. However still I've tried to complete the assignment, please find details below
 
 
 Solution 1:
